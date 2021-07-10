@@ -6,6 +6,6 @@ Special thanks to Nikola Janjusevic, Akshaj Kumar Veldanda, Jacky Yuan, Tejaishw
 - We take attendance [here]. If you have any questions regarding the attendance, please contact the instructors.
 
 ## Day 1
-- [Slides](https://github.com/asarmadi/tandon_summer2021_ml/blob/master/day01/Day 1 Introduction to Machine Learning.pdf)
+- [Slides](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day01/Day_1__Introduction_to_Machine_Learning.pdf)
 - [Basics of Python Lab](https://github.com/asarmadi/tandon_summer2021_ml/blob/master/day01/demo_python_basics.ipynb)
 - [Basics of Vectors and Matrices Lab](https://github.com/asarmadi/tandon_summer2021_ml/blob/master/day01/demo_vectors_matrices.ipynb)
