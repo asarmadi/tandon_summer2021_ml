@@ -1,5 +1,5 @@
-# NYU Tandon's ML Summer Program
-NYU Tandon's Machine Learning Summer Program 2021. Special thanks to Nikola Janjusevic, Akshaj Kumar Veldanda, Jacky Yuan, Tejaishwarya Gagadam for preparing the materials.
+# NYU Tandon's Machine Learning Summer Program 2021
+Special thanks to Nikola Janjusevic, Akshaj Kumar Veldanda, Jacky Yuan, Tejaishwarya Gagadam for preparing the materials.
 
 ## Logistics:
 - We use [Campuswire](https://campuswire.com/c/G39E327CF) for offline discussion!
