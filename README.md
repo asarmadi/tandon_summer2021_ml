@@ -3,7 +3,7 @@ Special thanks to Nikola Janjusevic, Akshaj Kumar Veldanda, Jacky Yuan, Tejaishw
 
 ## Logistics:
 - We use [Campuswire](https://campuswire.com/c/G39E327CF) for offline discussion!
-- We take attendance [here]. If you have any questions regarding the attendance, please contact the instructors.
+- We take attendance [here](https://docs.google.com/spreadsheets/d/1MnMnFf1Jl3Yp7P1xs3YjFkHSC7O5PYW8pNm7FHJq9Ac/edit?usp=sharing). If you have any questions regarding the attendance, please contact the instructors.
 
 ## Day 1
 - [Slides](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day01/Day_1__Introduction_to_Machine_Learning.pdf)
