@@ -14,6 +14,6 @@ Special thanks to Nikola Janjusevic, Akshaj Kumar Veldanda, Jacky Yuan, Tejaishw
 - [Slides](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day02/Day%202%20Linear%20Regression.pdf)
 - [Vectorized Programming](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day02/vectorize_programming.ipynb)
 - [Basics of Matplotlib](https://github.com/asarmadi/tandon_summer2021_ml/blob/master/day01/demo_vectors_matrices.ipynb)[[Solution]](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day02/demo_plot_with_solution.ipynb)
-- [IMDB dataset Visualization](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day02/lab_icebreaker.ipynb)
+- [IMDB dataset Visualization](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day02/lab_icebreaker.ipynb)[[Solution]](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day02/lab_icebreaker_with_solution.ipynb)
 - [Linear Regression](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day02/demo_boston_housing_one_variable.ipynb)
 - [Multilinear Regression](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day02/demo_multilinear.ipynb)
