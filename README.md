@@ -20,5 +20,5 @@ Special thanks to Nikola Janjusevic, Akshaj Kumar Veldanda, Jacky Yuan, Tejaishw
 
 ## Day 3
 - [Slides](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day03/Day_3__Overfitting_and_Regularization.pdf)
-- [Polynomial Fitting](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day03/demo_fit_polynomial.ipynb)
+- [Polynomial Fitting](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day03/demo_fit_polynomial.ipynb)[[Solution]](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day03/demo_fit_polynomial_solution.ipynb)
 - [Overfitting and Regularization](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day03/demo_overfitting_regularization.ipynb)
