@@ -17,3 +17,8 @@ Special thanks to Nikola Janjusevic, Akshaj Kumar Veldanda, Jacky Yuan, Tejaishw
 - [IMDB dataset Visualization](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day02/lab_icebreaker.ipynb)[[Solution]](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day02/lab_icebreaker_with_solution.ipynb)
 - [Linear Regression](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day02/demo_boston_housing_one_variable.ipynb)[[Solution]](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day02/demo_boston_housing_one_variable_sol.ipynb)
 - [Multilinear Regression](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day02/demo_multilinear.ipynb)
+
+## Day 3
+- [Slides](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day03/Day_3__Overfitting_and_Regularization.pdf)
+- [Polynomial Fitting](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day03/demo_fit_polynomial.ipynb)
+- [Overfitting and Regularization](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day03/demo_overfitting_regularization.ipynb)
