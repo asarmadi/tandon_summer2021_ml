@@ -25,5 +25,5 @@ Special thanks to Nikola Janjusevic, Akshaj Kumar Veldanda, Jacky Yuan, Tejaishw
 
 ## Day 4
 - [Slides](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day04/Day_4__Linear_Classifiers.pdf)
-- [Breast Cancer Detection](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day04/demo_breast_cancer.ipynb)
-- [Iris Classification](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day04/demo_iris.ipynb)
+- [Breast Cancer Detection](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day04/demo_breast_cancer.ipynb)[[Solution]](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day04/demo_breast_cancer_solution.ipynb)
+- [Iris Classification](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day04/demo_iris.ipynb)[[Solution]](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day04/demo_iris_solution.ipynb)
