@@ -22,3 +22,8 @@ Special thanks to Nikola Janjusevic, Akshaj Kumar Veldanda, Jacky Yuan, Tejaishw
 - [Slides](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day03/Day_3__Overfitting_and_Regularization.pdf)
 - [Polynomial Fitting](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day03/demo_fit_polynomial.ipynb)[[Solution]](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day03/demo_fit_polynomial_solution.ipynb)
 - [Overfitting and Regularization](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day03/demo_overfitting_regularization.ipynb)[[Solution]](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day03/demo_overfitting_regularization_solution.ipynb)
+
+## Day 4
+- [Slides](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day04/Day_4__Linear_Classifiers.pdf)
+- [Breast Cancer Detection](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day04/demo_breast_cancer.ipynb)
+- [Iris Classification](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day04/demo_iris.ipynb)
