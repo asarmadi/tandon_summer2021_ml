@@ -30,4 +30,4 @@ Special thanks to Nikola Janjusevic, Akshaj Kumar Veldanda, Jacky Yuan, Tejaishw
 
 ## Day 5
 - [Slides](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day05/lecture05_Mini_Project.pdf)
-- [Project](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day05/fish_market.ipynb)
+- [Project](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day05/fish_market.ipynb)[[Solution]](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day05/fish_market_solution.ipynb)
