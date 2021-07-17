@@ -31,3 +31,8 @@ Special thanks to Nikola Janjusevic, Akshaj Kumar Veldanda, Jacky Yuan, Tejaishw
 ## Day 5
 - [Slides](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day05/lecture05_Mini_Project.pdf)
 - [Project](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day05/fish_market.ipynb)[[Solution]](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day05/fish_market_solution.ipynb)
+
+## Day 6
+ - [Slides](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day06/Day_6__Neural_Networks.pdf)
+ - [Keras Basics](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day06/demo_tf_keras_basics.ipynb)
+ - [Fish Market](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day06/lab_mlp_fish_market_keras.ipynb)
