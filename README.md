@@ -40,6 +40,7 @@ Special thanks to Nikola Janjusevic, Akshaj Kumar Veldanda, Jacky Yuan, Tejaishw
 ## Day 7
  - [Slides](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day07/Day%207%20Convolutional%20Neural%20Networks.pdf)
  - [Images in Computer](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day07/images_in_computer_demo.ipynb)
+ - [Filters Demonstration](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day07/edge_detection_demo.ipynb)
  - [CNN Example](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day07/cnn_example.ipynb)
  - [MNIST Dataset](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day07/lab_MNIST.ipynb)[[Solution]](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day07/lab_MNIST_solution.ipynb)
 
