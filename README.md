@@ -46,3 +46,4 @@ Special thanks to Nikola Janjusevic, Akshaj Kumar Veldanda, Jacky Yuan, Tejaishw
 ## Day 8
  - [Slides](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day07/Day%207%20Convolutional%20Neural%20Networks.pdf)
  - [Transfer Learning](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day08/lab_transfer_learning_dog_cat.ipynb)
+ - [Project](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day08/Final%20Project.pdf)
