@@ -54,4 +54,5 @@ Special thanks to Nikola Janjusevic, Akshaj Kumar Veldanda, Jacky Yuan, Tejaishw
  - [Car Classification](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day08/car_keras.ipynb)
 
 ## Day 10
- - [Slides](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day10/Going%20Further%20with%20ML.pdf)
+ - [Slides](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day10/Going%20Further%20with%20ML.pdf))
+ - [Final Project Solution](https://github.com/asarmadi/tandon_summer2021_ml/blob/main/day10/CIFAR_solution.ipynb)
